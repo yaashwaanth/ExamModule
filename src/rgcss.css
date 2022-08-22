@@ -1,0 +1,8 @@
+.form_container{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+    position: relative;
+    top: 5vmax;
+    text-align: center;
+}
